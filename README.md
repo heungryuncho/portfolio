@@ -23,4 +23,4 @@
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL /
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+
