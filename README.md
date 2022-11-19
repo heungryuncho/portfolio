@@ -1,4 +1,4 @@
-# 조흥륜 포트폴리오
+# 조흥륜의 포트폴리오
 
 
 </br>
@@ -15,12 +15,20 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [noticeBoard](https://github.com/heungryuncho/noticeBoard)
+### 1. [library_API](https://github.com/heungryuncho/library_API)
+>도서관리API (개인 프로젝트)  
+>개발 기간: 2022.10.07~2022.10.10
+>  
+>기술 스택:  
+>Java 11 / Spring Boot / Gradle / Spring Data JPA /  
+>H2 / MySQL /
+>  
+## :pushpin: Projects
+### 2. [noticeBoard](https://github.com/heungryuncho/noticeBoard)
 >CRUD게시판 (개인 프로젝트)  
 >개발 기간: 2022.10.11~2022.10.17
 >  
 >기술 스택:  
->Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
+>Java 11 / Spring Boot / Gradle / Spring Data JPA /  
 >H2 / MySQL /
 >  
-
