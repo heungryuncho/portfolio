@@ -21,8 +21,7 @@
 >개발 기간: 2022.10.07~2022.10.10
 >  
 >기술 스택:  
->Java 11 / Spring Boot / Gradle / Spring Data JPA /  
->H2 / MySQL /
+>Java 11 / Spring Boot / Gradle / Spring Data JPA / MySQL /
 >  
 
 ### 2. [noticeBoard](https://github.com/heungryuncho/noticeBoard)
@@ -30,6 +29,5 @@
 >개발 기간: 2022.10.11~2022.10.17
 >  
 >기술 스택:  
->Java 11 / Spring Boot / Gradle / Spring Data JPA /  
->H2 / MySQL /
+>Java 11 / Spring Boot / Gradle / Spring Data JPA / MySQL /
 >  
