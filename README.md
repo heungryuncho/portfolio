@@ -25,7 +25,7 @@
 >  
 
 ### 2. [noticeBoard](https://github.com/heungryuncho/noticeBoard)
->CRUD게시판 (개인 프로젝트)  
+>게시판API (개인 프로젝트)  
 >개발 기간: 2022.10.11~2022.10.17
 >  
 >기술 스택:  
