@@ -23,7 +23,7 @@
 >Java 11 / Spring Boot / Gradle / Spring Data JPA /  
 >H2 / MySQL /
 >  
-## :pushpin: Projects
+
 ### 2. [noticeBoard](https://github.com/heungryuncho/noticeBoard)
 >CRUD게시판 (개인 프로젝트)  
 >개발 기간: 2022.10.11~2022.10.17
