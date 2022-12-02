@@ -16,15 +16,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [library_API](https://github.com/heungryuncho/library_API)
->도서관리API (개인 프로젝트)  
->개발 기간: 2022.10.07~2022.10.10
->  
->기술 스택:  
->Java 11 / Spring Boot / Gradle / Spring Data JPA / MySQL /
->  
-
-### 2. [noticeBoard](https://github.com/heungryuncho/noticeBoard)
+### 1. [noticeBoard](https://github.com/heungryuncho/noticeBoard)
 >게시판API (개인 프로젝트)  
 >개발 기간: 2022.10.11~2022.10.17
 >  
