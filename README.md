@@ -16,10 +16,10 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [noticeBoard](https://github.com/heungryuncho/noticeBoard)
->게시판API (개인 프로젝트)  
->개발 기간: 2022.10.11~2022.10.17
+### 1. [noticeBoard](https://github.com/heungryuncho/board_project1)
+>CRUD게시판 (개인 프로젝트)  
+>개발 기간: 2022.12.30 ~ 2023.1.11
 >  
 >기술 스택:  
->Java 11 / Spring Boot / Gradle / Spring Data JPA / MySQL /
+>Java 11 / Spring Boot / Gradle / Spring Data JPA / PostgreSQL / Mustache / JavaScript
 >  
